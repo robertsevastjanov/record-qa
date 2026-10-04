@@ -1,0 +1,9 @@
+row,case_id,issues
+4,C-1001,duplicate case_id
+5,C-1004,empty user_id
+6,C-1005,bad status
+7,C-1006,bad date
+8,C-1007,negative amount
+9,C-1008,closed without note
+10,C-1009,amount not a number
+11, C-1010,bad case_id
