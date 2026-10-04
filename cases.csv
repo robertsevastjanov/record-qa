@@ -8,7 +8,7 @@ C-1006,U-22,open,32/13/2024,8.00,bad date
 C-1007,U-23,open,2024-11-08,-5.00,negative amount
 C-1008,U-24,closed,2024-11-09,30.00,
 C-1009,U-25,open,2024-11-10,abc,amount not a number
-C-1010,U-26,open,2024-11-11,18.00,space in id
+ C-1010,U-26,open,2024-11-11,18.00,space in id
 C-1011,U-30,open,2026-10-03,22.00,customer called
 C-1012,U-31,pending,2026-10-03,16.40,waiting for payment
 C-1013,U-32,closed,2026-10-13,50.00,resolved by phone
