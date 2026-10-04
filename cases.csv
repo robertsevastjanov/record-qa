@@ -1,0 +1,27 @@
+case_id,user_id,status,opened_at,amount,note
+C-1001,U-77,open,2024-11-02,15.00,waiting for docs
+C-1002,U-18,pending,2024-11-03,40.50,asked customer
+C-1001,U-19,open,2024-11-04,10.00,duplicate id
+C-1004,,closed,2024-11-05,20.00,missing user
+C-1005,U-21,done,2024-11-06,12.00,bad status
+C-1006,U-22,open,32/13/2024,8.00,bad date
+C-1007,U-23,open,2024-11-08,-5.00,negative amount
+C-1008,U-24,closed,2024-11-09,30.00,
+C-1009,U-25,open,2024-11-10,abc,amount not a number
+C-1010,U-26,open,2024-11-11,18.00,space in id
+C-1011,U-30,open,2026-10-03,22.00,customer called
+C-1012,U-31,pending,2026-10-03,16.40,waiting for payment
+C-1013,U-32,closed,2026-10-13,50.00,resolved by phone
+C-1014,U-33,open,2026-10-04,11.00,docs received
+C-1015,U-34,pending,2026-10-04,19.90,waiting for payment
+C-1016,U-35,closed,2026-10-05,60.00,resolved by phone
+C-1017,U-36,open,2026-10-05,22.00,customer called
+C-1018,U-37,pending,2026-10-06,16.40,asked customer
+C-1019,U-38,closed,2026-10-06,50.00,resolved by phone
+C-1020,U-39,open,2026-10-07,22.00,customer called
+C-1021,U-40,pending,2026-10-07,16.40,waiting for payment
+C-1022,U-41,closed,2026-10-08,50.00,resolved by phone
+C-1023,U-42,open,2026-10-08,22.00,customer called
+C-1024,U-43,pending,2026-10-09,16.40,waiting for payment
+C-1025,U-44,closed,2026-10-09,50.00,resolved by phone
+C-1026,U-45,open,2026-10-10,22.00,customer called
