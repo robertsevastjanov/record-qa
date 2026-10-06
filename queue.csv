@@ -1,0 +1,6 @@
+case_id,note,label
+C-2006,customer says they paid yesterday but I cannot see it,paid_unclear
+C-2007,"maybe fraud, user changed country twice",fraud_unclear
+C-2008,"not sure, please look",paid_unclear
+C-2009,someone else used the account maybe,paid_unclear
+C-2010,"call them, I do not know what happened",paid_unclear
